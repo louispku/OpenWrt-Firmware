@@ -20,4 +20,4 @@ git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/l
 git clone https://github.com/sirpdboy/luci-theme-opentopd.git package/luci-theme-opentopd
 
 #添加额外非必须软件包
-git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+# git clone https://github.com/vernesong/OpenClash.git package/OpenClash
